@@ -1,0 +1,18 @@
+div{
+    text-align: center;
+}
+body {
+    background-color: rgba(151, 229, 146, 0.829);
+}
+img{
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    cursor: pointer;
+}
+input{
+    height: 40px;
+    width: 200px;
+    border: 3px solid rgb(52, 212, 38);
+    border-radius: 8px;
+}
